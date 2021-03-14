@@ -1,0 +1,21 @@
+# Maven
+build/
+target/
+
+# Gradle
+.gradle/
+gradle.properties
+
+# Idea
+.idea/
+*.iml
+
+# Eclipse etc.
+.settings/
+.project
+.classpath
+bin/
+.vscode/
+
+# Other
+logs/
